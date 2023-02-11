@@ -1,2 +1,2 @@
 # Dawayanta-Application
-Dawayanta Application used to design flutter darts , and machine learning for the main usage of the application
+Dawayanta Application, flutter darts is used to design the UI, and machine learning for the prediction. The main usage of the application is to predict disease from the symptoms the user select.
